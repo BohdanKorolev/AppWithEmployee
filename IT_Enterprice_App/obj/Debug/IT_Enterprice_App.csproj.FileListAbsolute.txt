@@ -1,0 +1,10 @@
+D:\IT_Enterprice_App\IT_Enterprice_App\bin\Debug\IT_Enterprice_App.exe.config
+D:\IT_Enterprice_App\IT_Enterprice_App\bin\Debug\IT_Enterprice_App.exe
+D:\IT_Enterprice_App\IT_Enterprice_App\bin\Debug\IT_Enterprice_App.pdb
+D:\IT_Enterprice_App\IT_Enterprice_App\obj\Debug\IT_Enterprice_App.csprojAssemblyReference.cache
+D:\IT_Enterprice_App\IT_Enterprice_App\obj\Debug\IT_Enterprice_App.Properties.Resources.resources
+D:\IT_Enterprice_App\IT_Enterprice_App\obj\Debug\IT_Enterprice_App.csproj.GenerateResource.cache
+D:\IT_Enterprice_App\IT_Enterprice_App\obj\Debug\IT_Enterprice_App.exe
+D:\IT_Enterprice_App\IT_Enterprice_App\obj\Debug\IT_Enterprice_App.pdb
+D:\IT_Enterprice_App\IT_Enterprice_App\obj\Debug\IT_Enterprice_App.MainForm.resources
+D:\IT_Enterprice_App\IT_Enterprice_App\obj\Debug\IT_Enterprice_App.AuthForm.resources
